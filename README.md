@@ -1,5 +1,3 @@
-<img src="https://c.tenor.com/ZNi18lLfqs4AAAAC/rainbow-line-line.gif" width="100%" height="3"/>
-
 <h1 align='center'>
   Hello there, I am 0xtekgrinder 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -55,5 +53,3 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
-
-<img src="https://c.tenor.com/ZNi18lLfqs4AAAAC/rainbow-line-line.gif" width="100%" height="3"/>
